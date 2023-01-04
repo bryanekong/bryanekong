@@ -1,7 +1,7 @@
 Hi 👋 My name is Bryan
 ======================
 
-Software QA Automation Engineer
+Software Quality Assurance Engineer
 -----------------
 
 * 🌍  I'm based in Abuja, Nigeria
