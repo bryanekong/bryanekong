@@ -10,10 +10,6 @@ Software Quality Assurance Engineer
 * 🤝  I'm open to collaborating on web3, tools automation and backend stuff
 * ⚡  I like to automate stuff.
 
-<a href="https://www.twitter.com/thebryanekong" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/thebryanekong?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
